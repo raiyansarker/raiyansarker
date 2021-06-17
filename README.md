@@ -12,7 +12,7 @@ A 17 year old web developer from Bangladesh. Being interested in internet and te
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🌱 I’m currently learning Kubernates, Testing and Optimization
+- 🌱 I’m currently learning Kubernates, Testing and Go
 - ⚡ I am good at NodeJS and frameworks, Python
 - 🚀 Love to do DevOps stuff !
 - 👯 I’m looking to collaborate on NodeJS projects
@@ -25,6 +25,7 @@ A 17 year old web developer from Bangladesh. Being interested in internet and te
 <div align="center">
   
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/python.png?raw=true" height="60" width="60">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="60" width="60">
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/JS.png?raw=true" height="60" width="60">
 <img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" height="60" width="60">
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/next.png?raw=true" height="60" width="60">
@@ -36,6 +37,7 @@ A 17 year old web developer from Bangladesh. Being interested in internet and te
 
 <br>
 
+<img src="https://avatars.githubusercontent.com/u/4314092?s=200&v=4" height="60" width="60">
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/react.png?raw=true" height="60" width="60">
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/php.png?raw=true" height="60" width="60">
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/sql.png?raw=true" height="60" width="60">
@@ -68,10 +70,6 @@ A 17 year old web developer from Bangladesh. Being interested in internet and te
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/raiyansarker.akib/)
 [<img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.twitter.com/raiyan_sarker_/)
 [<img src="https://img.shields.io/badge/Portfolio-%2334D399.svg?&style=for-the-badge">](https://raiyansarker.com/)
-
-
-##### This repository is forked from Subhampreet
-<a href="https://github.com/Subhampreet/"><img height="50" src="https://avatars.githubusercontent.com/u/61475220?s=48&v=4"></a>
 
 </div>
 
