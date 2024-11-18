@@ -75,3 +75,9 @@ Hey there, This is Raiyan, a web developer from Bangladesh. I've been working on
 [<img src="https://img.shields.io/badge/Portfolio-%2334D399.svg?&style=for-the-badge">](https://raiyansarker.com/)
 
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raiyansarker/raiyansarker/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raiyansarker/raiyansarker/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/raiyansarker/raiyansarker/output/github-snake.svg" />
+</picture>
