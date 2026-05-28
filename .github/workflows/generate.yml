@@ -1,4 +1,4 @@
-name: GitHub Readme Stats
+name: Generate Profile Assets
 
 on:
   schedule:
@@ -9,13 +9,25 @@ on:
       - main
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     permissions:
       contents: write
 
     steps:
       - uses: actions/checkout@v4
+
+      - name: Generate snake animations
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate stats card (dark)
         uses: stats-organization/github-readme-stats-action@v2
@@ -54,5 +66,5 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add dist/
-          git diff --quiet --cached || git commit -m "Update stats cards [skip ci]"
+          git diff --quiet --cached || git commit -m "Update profile assets [skip ci]"
           git push
