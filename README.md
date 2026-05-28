@@ -59,8 +59,8 @@ Hey there, This is Raiyan, a web developer from Bangladesh. I've been working on
 </picture>
 
 <picture>
-  <source width="45%" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raiyansarker/raiyansarker/output/top-langs-dark.svg" />
-  <img width="45%" src="https://raw.githubusercontent.com/raiyansarker/raiyansarker/output/top-langs-light.svg" />
+  <source width="45%" media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=raiyansarker&theme=dark" />
+  <img width="45%" src="https://streak-stats.demolab.com?user=raiyansarker&theme=default" />
 </picture>
 
 <br>
