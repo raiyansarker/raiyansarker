@@ -54,13 +54,13 @@ Hey there, This is Raiyan, a web developer from Bangladesh. I've been working on
 ## 🏆 Github Status
 
 <picture>
-  <source width="45%" align="right" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=raiyansarker&show_icons=true&hide_border=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api?username=raiyansarker&show_icons=true&hide_border=true&theme=light" width="45%" align="right" >
+  <source width="45%" align="right" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raiyansarker/raiyansarker/output/stats-dark.svg" />
+  <img src="https://raw.githubusercontent.com/raiyansarker/raiyansarker/output/stats-light.svg" width="45%" align="right" />
 </picture>
 
 <picture>
-    <source width="45%" media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=raiyansarker&theme=dark" />
-    <img width="45%" src="https://streak-stats.demolab.com?user=raiyansarker&theme=default" />
+  <source width="45%" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raiyansarker/raiyansarker/output/top-langs-dark.svg" />
+  <img width="45%" src="https://raw.githubusercontent.com/raiyansarker/raiyansarker/output/top-langs-light.svg" />
 </picture>
 
 <br>
