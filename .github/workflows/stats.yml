@@ -23,7 +23,7 @@ jobs:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&theme=dark
           path: dist/stats-dark.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.TOKEN }}
 
       - name: Generate stats card (light)
         uses: stats-organization/github-readme-stats-action@v2
@@ -31,7 +31,7 @@ jobs:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&theme=default
           path: dist/stats-light.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.TOKEN }}
 
       - name: Generate top languages card (dark)
         uses: stats-organization/github-readme-stats-action@v2
@@ -39,7 +39,7 @@ jobs:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&hide_border=true&theme=dark
           path: dist/top-langs-dark.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.TOKEN }}
 
       - name: Generate top languages card (light)
         uses: stats-organization/github-readme-stats-action@v2
@@ -47,7 +47,7 @@ jobs:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&hide_border=true&theme=default
           path: dist/top-langs-light.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.TOKEN }}
 
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
