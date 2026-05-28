@@ -5,18 +5,23 @@
 
 <h1 align="center"> Hey! I'm Raiyan Sarker <img src="icons/hi.gif" width="30" /> ! </h1>
 
-<h3 align="center">I'm a Web Developer from Bangladesh 🤍</h3>
+<h3 align="center">Full-Stack Web Developer & Cloud Enthusiast from Bangladesh 🤍</h3>
 
-Hey there, This is Raiyan, a web developer from Bangladesh. I've been working on frontend and backend development for some time now, along with some experience in Cloud and DevOps. Additionally, I've dabbled in cross-platform app development, which has been pretty exciting. I'm passionate about using technology to solve real-world problems, and I believe programming gives me the tools to do that. I'm also a student, and I try to balance my studies with my work as a developer. I'm always eager to learn new things and collaborate with others to create innovative solutions. I'm not sure about being "brilliant," but I'm certainly hardworking and dedicated.
+I'm a passionate developer focused on building scalable web applications and robust cloud infrastructure. With hands-on experience across the entire development stack, from crafting intuitive frontends to designing solid backend systems and managing DevOps pipelines, I love using technology to solve real-world problems. 
 
-![age](https://img.shields.io/badge/age-17-blue)
-![focus](https://img.shields.io/badge/focus-FullStack-3c9)
+As a continuous learner, I thrive on exploring new tools, diving into cross-platform development, and tackling complex challenges. My goal is always to create impactful, innovative solutions while growing alongside the tech community.
+
+![location](https://img.shields.io/badge/Location-Bangladesh-blue)
+![focus](https://img.shields.io/badge/Focus-Full%20Stack-3c9)
 
 <img width="50%" align="right" alt="Github Image" src="icons/git.svg" />
 
-- 🌱 I’m currently learning Kubernates, AI.
-- ⚡ I'm well-versed in Node.js and related frameworks.
-- 🚀 Love to do DevOps stuff!
+- 🌍 Based in Bangladesh
+- 🌱 Currently exploring **Kubernetes** and **AI/ML**.
+- 🧠 Rewiring my brain with pure **Functional Programming** and taming chaos using **EffectTS**! 💥
+- ⚡ Deep expertise in **Node.js**, its related frameworks, and building scalable APIs.
+- 🚀 Passionate about DevOps, CI/CD, and automating workflows!
+- 🤝 Always open to collaborating on innovative ideas and open-source projects.
   <br />
 
 ## 👨‍💻 Languages and Tools
