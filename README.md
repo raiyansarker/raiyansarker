@@ -71,7 +71,7 @@ Hey there, This is Raiyan, a web developer from Bangladesh. I've been working on
 
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://raiyansarker.com/instagram?ref=github)
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://raiyansarker.com/facebook?ref=github)
-[<img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://raiyansarker.com/twitter?ref=github)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge">](https://raiyansarker.com/linkedin?ref=github)
 [<img src="https://img.shields.io/badge/Portfolio-%2334D399.svg?&style=for-the-badge">](https://raiyansarker.com?ref=github)
 
 </div>
