@@ -74,10 +74,10 @@ As a continuous learner, I thrive on exploring new tools, diving into cross-plat
 
 ### You can contact me in these medias!
 
-[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://raiyansarker.com/instagram?ref=github)
-[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://raiyansarker.com/facebook?ref=github)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge">](https://raiyansarker.com/linkedin?ref=github)
-[<img src="https://img.shields.io/badge/Portfolio-%2334D399.svg?&style=for-the-badge">](https://raiyansarker.com?ref=github)
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://raiyansarker.com/instagram?utm_source=github&utm_medium=profile)
+[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://raiyansarker.com/facebook?utm_source=github&utm_medium=profile)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge">](https://raiyansarker.com/linkedin?utm_source=github&utm_medium=profile)
+[<img src="https://img.shields.io/badge/Portfolio-%2334D399.svg?&style=for-the-badge">](https://raiyansarker.com?utm_source=github&utm_medium=profile)
 
 </div>
 
