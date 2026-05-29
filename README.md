@@ -64,8 +64,8 @@ As a continuous learner, I thrive on exploring new tools, diving into cross-plat
 </picture>
 
 <picture>
-  <source width="45%" media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=raiyansarker&theme=dark" />
-  <img width="45%" src="https://streak-stats.demolab.com?user=raiyansarker&theme=default" />
+  <source width="45%" media="(prefers-color-scheme: dark)" srcset="dist/streak-dark.svg" />
+  <img width="45%" src="dist/streak-light.svg" />
 </picture>
 
 <br>

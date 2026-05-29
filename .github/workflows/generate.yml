@@ -61,6 +61,13 @@ jobs:
           path: dist/top-langs-light.svg
           token: ${{ secrets.TOKEN }}
 
+      - name: Download streak stats SVGs
+        run: |
+          curl -o dist/streak-dark.svg --max-time 120 --retry 3 --retry-delay 5 \
+            "https://streak-stats.demolab.com?user=${{ github.repository_owner }}&theme=dark"
+          curl -o dist/streak-light.svg --max-time 120 --retry 3 --retry-delay 5 \
+            "https://streak-stats.demolab.com?user=${{ github.repository_owner }}&theme=default"
+
       - name: Commit to main
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
